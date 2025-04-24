@@ -1,0 +1,3 @@
+[submodule "DMH_VCA_Bank_PANEL/Libraries/SynthStuff"]
+	path = DMH_VCA_Bank_PANEL/Libraries/SynthStuff
+	url = https://github.com/DeMarco/KiCad-Lib-SynthStuff.git
