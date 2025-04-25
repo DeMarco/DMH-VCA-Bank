@@ -555,28 +555,46 @@
 		)
 	)
 	(junction
+		(at 88.9 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07f45ed0-1e70-49d2-9641-db9a82d8095a")
+	)
+	(junction
+		(at 38.1 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0cc28fba-0285-4e44-aa7d-e8e87bdeac65")
+	)
+	(junction
 		(at 34.29 269.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1213b18d-ec38-4781-9097-c5483d6514a5")
 	)
 	(junction
-		(at 50.8 139.7)
+		(at 25.4 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "130927f2-e59a-4141-b9d1-eede3aa82019")
 	)
 	(junction
-		(at 50.8 203.2)
+		(at 25.4 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17d01aa3-1579-41a5-b544-5d5c819fa7fa")
 	)
 	(junction
-		(at 101.6 127)
+		(at 88.9 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "27751463-d122-4539-b93d-bc78a28e23a8")
+		(uuid "1dc7a263-64a0-4188-af8f-64b9d0779b3e")
+	)
+	(junction
+		(at 38.1 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "25366654-91df-4bfd-afa2-bd07791a0282")
 	)
 	(junction
 		(at 45.72 269.24)
@@ -585,16 +603,34 @@
 		(uuid "2993be9b-8db5-4969-bef1-77c3dd7ea0f9")
 	)
 	(junction
-		(at 95.25 127)
+		(at 88.9 127)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3c17572d-959b-4eb0-8912-0a7cb40ee240")
+		(uuid "2c0b896c-0eaf-4f16-a26b-e972bbd7e4b2")
 	)
 	(junction
-		(at 95.25 203.2)
+		(at 88.9 215.9)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "47b44aa3-50af-4317-bb96-b82b539f223a")
+		(uuid "38692f7e-3b14-4102-b680-a352db1acfe6")
+	)
+	(junction
+		(at 101.6 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4aa8a708-6080-407f-8678-35f0718a2df3")
+	)
+	(junction
+		(at 101.6 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f980f4d-12c1-471b-ac7b-12511381d0f2")
+	)
+	(junction
+		(at 88.9 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e387d8a-0253-4d34-9dc8-9bdd09282e26")
 	)
 	(junction
 		(at 27.94 269.24)
@@ -603,25 +639,19 @@
 		(uuid "90cd9c5b-2029-428e-8790-e91746db7e05")
 	)
 	(junction
-		(at 50.8 215.9)
+		(at 88.9 171.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9681be7c-e247-4b18-a21e-ded8c9bb51ad")
+	)
+	(junction
+		(at 25.4 215.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1f4ae7f-05d1-44b9-a8a4-151e3d3750ca")
 	)
 	(junction
-		(at 101.6 203.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a266eb33-18b4-4273-a092-26c75913e950")
-	)
-	(junction
-		(at 76.2 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "baed9fa7-e8c0-483b-9cf1-e92077253df3")
-	)
-	(junction
-		(at 50.8 171.45)
+		(at 25.4 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c0b248e7-cff5-45ae-9b7d-96b3c5a7190d")
@@ -633,32 +663,32 @@
 		(uuid "c0b942ae-d88d-40bf-b11e-c3792fb96421")
 	)
 	(junction
-		(at 50.8 190.5)
+		(at 25.4 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c67a7bfe-ca75-4b43-ac98-9189bd371a26")
 	)
 	(junction
-		(at 50.8 127)
+		(at 25.4 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c792da59-d99c-45c9-8e72-81317570c48a")
 	)
 	(junction
-		(at 50.8 114.3)
+		(at 88.9 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d983c7e6-dae8-4857-a67b-cb2682d33c62")
+	)
+	(junction
+		(at 25.4 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eca0eddf-8397-4df1-a310-47ef858703f1")
 	)
-	(junction
-		(at 76.2 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ecbab065-5a92-4043-b333-e494241f1982")
-	)
 	(wire
 		(pts
-			(xy 50.8 215.9) (xy 50.8 203.2)
+			(xy 25.4 215.9) (xy 25.4 203.2)
 		)
 		(stroke
 			(width 0)
@@ -668,33 +698,23 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 139.7) (xy 95.25 139.7)
+			(xy 88.9 127) (xy 88.9 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "04528879-9d35-4489-9af2-ce6361123028")
+		(uuid "05d73067-1b50-4d98-89a4-a28279699ef2")
 	)
 	(wire
 		(pts
-			(xy 95.25 127) (xy 95.25 139.7)
+			(xy 97.79 215.9) (xy 88.9 215.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "064ef738-83f1-44ce-8107-f9717b66e331")
-	)
-	(wire
-		(pts
-			(xy 101.6 127) (xy 110.49 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0dcf30d4-bdaf-49f5-8ba2-585a6415d999")
+		(uuid "076ecd73-b21c-4891-8f9d-4e6395f7bc98")
 	)
 	(wire
 		(pts
@@ -708,17 +728,37 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 203.2) (xy 110.49 203.2)
+			(xy 88.9 95.25) (xy 88.9 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "11979540-e884-4ffd-8b30-7dfc68f49362")
+		(uuid "12913cca-43aa-4182-b134-d747abc78368")
 	)
 	(wire
 		(pts
-			(xy 72.39 139.7) (xy 50.8 139.7)
+			(xy 38.1 114.3) (xy 46.99 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13b83b00-ddaf-4d8e-b03f-043f8f184cc8")
+	)
+	(wire
+		(pts
+			(xy 101.6 190.5) (xy 110.49 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16a6981b-c530-4810-a1c8-231244956ca4")
+	)
+	(wire
+		(pts
+			(xy 34.29 139.7) (xy 25.4 139.7)
 		)
 		(stroke
 			(width 0)
@@ -728,7 +768,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 215.9) (xy 50.8 219.71)
+			(xy 25.4 215.9) (xy 25.4 219.71)
 		)
 		(stroke
 			(width 0)
@@ -758,7 +798,27 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 203.2) (xy 50.8 190.5)
+			(xy 101.6 95.25) (xy 88.9 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27958705-ea0d-4a7a-a359-30b0df14f2dd")
+	)
+	(wire
+		(pts
+			(xy 101.6 181.61) (xy 101.6 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28fc46af-9f2b-4043-b088-215df5b66d18")
+	)
+	(wire
+		(pts
+			(xy 25.4 203.2) (xy 25.4 190.5)
 		)
 		(stroke
 			(width 0)
@@ -778,7 +838,27 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 168.91) (xy 88.9 171.45)
+			(xy 101.6 114.3) (xy 110.49 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39da5ba1-b8df-4c02-a941-cba38f6256c0")
+	)
+	(wire
+		(pts
+			(xy 88.9 171.45) (xy 88.9 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dce12ae-f03e-4b75-bf46-b77bbeb2dde5")
+	)
+	(wire
+		(pts
+			(xy 38.1 168.91) (xy 38.1 171.45)
 		)
 		(stroke
 			(width 0)
@@ -788,7 +868,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 95.25) (xy 50.8 114.3)
+			(xy 25.4 95.25) (xy 25.4 114.3)
 		)
 		(stroke
 			(width 0)
@@ -798,17 +878,17 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 190.5) (xy 76.2 203.2)
+			(xy 88.9 114.3) (xy 101.6 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4e040bce-99a4-40c5-b66f-67235e427ee0")
+		(uuid "496e5b54-3754-4895-83ac-387570a26322")
 	)
 	(wire
 		(pts
-			(xy 76.2 181.61) (xy 76.2 190.5)
+			(xy 38.1 181.61) (xy 38.1 190.5)
 		)
 		(stroke
 			(width 0)
@@ -818,33 +898,23 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 105.41) (xy 101.6 127)
+			(xy 38.1 190.5) (xy 46.99 190.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "53c1afa8-2982-4142-970b-4367445ebb8a")
+		(uuid "520e6586-717d-414d-9769-fa86b20f30c7")
 	)
 	(wire
 		(pts
-			(xy 72.39 215.9) (xy 50.8 215.9)
+			(xy 34.29 215.9) (xy 25.4 215.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5d01f35c-c348-4257-ad46-8b6dca9bafb0")
-	)
-	(wire
-		(pts
-			(xy 101.6 181.61) (xy 101.6 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ec2f6a7-3dc2-47ed-9373-35cff63b56c4")
 	)
 	(wire
 		(pts
@@ -858,16 +928,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 215.9) (xy 95.25 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64df4c38-513d-4f66-b8fa-b58cc9a971cc")
-	)
-	(wire
-		(pts
 			(xy 34.29 269.24) (xy 34.29 273.05)
 		)
 		(stroke
@@ -878,27 +938,27 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 215.9) (xy 95.25 203.2)
+			(xy 101.6 171.45) (xy 88.9 171.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "66864549-e7a4-4402-8e49-8d56fb2bfba8")
+		(uuid "6adf6bf6-f104-4f78-9a5b-be4399926dad")
 	)
 	(wire
 		(pts
-			(xy 76.2 203.2) (xy 95.25 203.2)
+			(xy 101.6 105.41) (xy 101.6 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "68a513e1-d236-4e7c-9037-509e709add48")
+		(uuid "6e1f0cf2-a411-49e0-8f33-3694018b457a")
 	)
 	(wire
 		(pts
-			(xy 50.8 190.5) (xy 76.2 190.5)
+			(xy 25.4 190.5) (xy 38.1 190.5)
 		)
 		(stroke
 			(width 0)
@@ -908,23 +968,13 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 105.41) (xy 76.2 114.3)
+			(xy 38.1 105.41) (xy 38.1 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "70443b78-d55c-4f9e-a456-813559a10c5b")
-	)
-	(wire
-		(pts
-			(xy 76.2 127) (xy 95.25 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74346bec-f8b0-4695-bdfb-075fff078fc0")
 	)
 	(wire
 		(pts
@@ -938,7 +988,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 95.25) (xy 50.8 95.25)
+			(xy 38.1 95.25) (xy 25.4 95.25)
 		)
 		(stroke
 			(width 0)
@@ -958,17 +1008,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 114.3) (xy 76.2 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8add742f-6ad7-4e80-9408-c9dba10f081a")
-	)
-	(wire
-		(pts
-			(xy 50.8 114.3) (xy 76.2 114.3)
+			(xy 25.4 114.3) (xy 38.1 114.3)
 		)
 		(stroke
 			(width 0)
@@ -988,6 +1028,36 @@
 	)
 	(wire
 		(pts
+			(xy 97.79 203.2) (xy 88.9 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "946d2afb-d59a-4c66-a6bb-bee4c06ebf5e")
+	)
+	(wire
+		(pts
+			(xy 88.9 127) (xy 97.79 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "968b86b5-450a-40f4-8465-788f2030e626")
+	)
+	(wire
+		(pts
+			(xy 101.6 92.71) (xy 101.6 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99eca443-5aab-41f0-9b3d-545b8939b0d2")
+	)
+	(wire
+		(pts
 			(xy 27.94 259.08) (xy 24.13 259.08)
 		)
 		(stroke
@@ -998,7 +1068,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 203.2) (xy 50.8 203.2)
+			(xy 34.29 203.2) (xy 25.4 203.2)
 		)
 		(stroke
 			(width 0)
@@ -1018,7 +1088,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 171.45) (xy 50.8 171.45)
+			(xy 38.1 171.45) (xy 25.4 171.45)
 		)
 		(stroke
 			(width 0)
@@ -1028,7 +1098,27 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 139.7) (xy 50.8 171.45)
+			(xy 88.9 215.9) (xy 88.9 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae1bf54f-9816-4969-b651-e25bd4ec367a")
+	)
+	(wire
+		(pts
+			(xy 88.9 139.7) (xy 88.9 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5f553f9-12e3-4f22-864c-c99b5075376c")
+	)
+	(wire
+		(pts
+			(xy 25.4 139.7) (xy 25.4 171.45)
 		)
 		(stroke
 			(width 0)
@@ -1038,7 +1128,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 139.7) (xy 50.8 127)
+			(xy 25.4 139.7) (xy 25.4 127)
 		)
 		(stroke
 			(width 0)
@@ -1048,17 +1138,27 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 203.2) (xy 101.6 203.2)
+			(xy 88.9 203.2) (xy 88.9 190.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c9927dbb-cfff-4f7b-a956-1cccb1aed27c")
+		(uuid "befcb7ef-ec37-4ae0-9d05-dac35c2a075c")
 	)
 	(wire
 		(pts
-			(xy 88.9 92.71) (xy 88.9 95.25)
+			(xy 88.9 190.5) (xy 101.6 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c61adda9-3abd-4d8f-90c2-993fcf6f8bf9")
+	)
+	(wire
+		(pts
+			(xy 38.1 92.71) (xy 38.1 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1068,7 +1168,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 127) (xy 50.8 114.3)
+			(xy 25.4 127) (xy 25.4 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1078,7 +1178,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 127) (xy 59.69 127)
+			(xy 25.4 127) (xy 34.29 127)
 		)
 		(stroke
 			(width 0)
@@ -1088,7 +1188,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 171.45) (xy 50.8 190.5)
+			(xy 101.6 168.91) (xy 101.6 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3c1d7c5-f7c9-490c-8c1a-879cd9dae82e")
+	)
+	(wire
+		(pts
+			(xy 25.4 171.45) (xy 25.4 190.5)
 		)
 		(stroke
 			(width 0)
@@ -1108,16 +1218,6 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 127) (xy 101.6 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2b43fb6-f826-4b83-90ab-026a6042cbf6")
-	)
-	(wire
-		(pts
 			(xy 34.29 269.24) (xy 27.94 269.24)
 		)
 		(stroke
@@ -1125,6 +1225,36 @@
 			(type default)
 		)
 		(uuid "e5936c9a-c9be-4889-9a56-7f26d2cee9b4")
+	)
+	(wire
+		(pts
+			(xy 97.79 139.7) (xy 88.9 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb4f5491-392a-4115-af9b-c74824e06c5b")
+	)
+	(wire
+		(pts
+			(xy 88.9 139.7) (xy 88.9 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6900108-3759-4ede-9406-34b56bc6311b")
+	)
+	(wire
+		(pts
+			(xy 88.9 215.9) (xy 88.9 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7d34668-23c4-4c56-be2e-72980f27ee18")
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Rails")
@@ -1195,6 +1325,474 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Pot")
+		(at 101.6 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1b4694dc-18d8-4796-8f38-4ecd64a9e899")
+		(property "Reference" "H7"
+			(at 104.14 86.3599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Offset C"
+			(at 104.14 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny"
+			(at 101.6 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Pot Mounting Hole"
+			(at 104.14 91.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "310959df-5070-4ecd-862d-79c6be45f881")
+		)
+		(instances
+			(project "DMH_VCA_Bank_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
+		(at 38.1 215.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "32a45464-fa39-4808-8063-1251cce1c06c")
+		(property "Reference" "H17"
+			(at 40.64 213.3599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CV B"
+			(at 40.64 215.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
+			(at 38.1 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.1 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm"
+			(at 40.64 218.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "bd942b32-e863-4ea5-9405-c66e2a2bb7c7")
+		)
+		(instances
+			(project "DMH_Transistor_VCA_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
+		(at 101.6 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "341d94e2-dc2f-4c8f-8b4a-28535dbf9238")
+		(property "Reference" "H18"
+			(at 104.14 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CV C"
+			(at 104.14 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
+			(at 101.6 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm"
+			(at 104.14 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "a5be0be7-5192-4cc9-8a54-856924db801d")
+		)
+		(instances
+			(project "DMH_VCA_Bank_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Pot")
+		(at 38.1 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3e14c0c0-683d-475f-9db3-4fb8301caa95")
+		(property "Reference" "H5"
+			(at 40.64 86.3599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Offset A"
+			(at 40.64 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny"
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Pot Mounting Hole"
+			(at 40.64 91.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "aeb7a6ba-2b04-42a5-80b7-33aed6a89052")
+		)
+		(instances
+			(project ""
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 88.9 219.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "407a8062-0b17-4c03-9cf5-209abbff1ffb")
+		(property "Reference" "#PWR03"
+			(at 88.9 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 88.9 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 88.9 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3c620055-bd2f-4a11-a762-59fb3acca54b")
+		)
+		(instances
+			(project "DMH_VCA_Bank_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
+		(at 114.3 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42ec3ee4-af7a-4069-a287-61afadac181e")
+		(property "Reference" "H24"
+			(at 116.84 187.9599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Out D"
+			(at 116.84 190.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 114.3 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm"
+			(at 116.84 193.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "0e712d6a-01c9-407b-aa89-f32bd0910f1c")
+		)
+		(instances
+			(project "DMH_VCA_Bank_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
+		(at 38.1 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "444d4841-761a-46da-a3af-080d53802c72")
+		(property "Reference" "H8"
+			(at 40.64 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "In A"
+			(at 40.64 126.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
+			(at 38.1 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.1 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm"
+			(at 40.64 129.5399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "82cf5471-7ce5-4087-b3f4-57cc389608aa")
+		)
+		(instances
+			(project ""
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Pot")
 		(at 101.6 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1202,8 +1800,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2060c0bd-f917-48f8-99db-c57280def0a9")
-		(property "Reference" "H14"
+		(uuid "537d4bc8-73a5-43c4-8da5-3ba5a3b18f26")
+		(property "Reference" "H20"
 			(at 104.14 175.2599 0)
 			(effects
 				(font
@@ -1212,7 +1810,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV 2 Amt"
+		(property "Value" "CV D Amt"
 			(at 104.14 177.7999 0)
 			(effects
 				(font
@@ -1249,12 +1847,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "107b1c20-0415-42de-b39a-ab6c5afeb54c")
+			(uuid "1ff6fa67-534a-4d56-9a39-f2fab7c92572")
 		)
 		(instances
-			(project "DMH_Transistor_VCA_PANEL"
+			(project "DMH_VCA_Bank_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
-					(reference "H14")
+					(reference "H20")
 					(unit 1)
 				)
 			)
@@ -1262,16 +1860,16 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
-		(at 76.2 215.9 0)
+		(at 114.3 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "32a45464-fa39-4808-8063-1251cce1c06c")
-		(property "Reference" "H17"
-			(at 78.74 213.3599 0)
+		(uuid "608426f3-8c7d-4450-9056-6dc4e9af3cab")
+		(property "Reference" "H23"
+			(at 116.84 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1279,8 +1877,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV 1"
-			(at 78.74 215.8999 0)
+		(property "Value" "Out C"
+			(at 116.84 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1288,8 +1886,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
-			(at 76.2 215.9 0)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 114.3 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1298,7 +1896,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 215.9 0)
+			(at 114.3 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1307,7 +1905,7 @@
 			)
 		)
 		(property "Description" "Jack 6.35mm"
-			(at 78.74 218.4399 0)
+			(at 116.84 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1316,146 +1914,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "bd942b32-e863-4ea5-9405-c66e2a2bb7c7")
+			(uuid "0c195610-710c-46dd-a2dc-53938ab3133b")
 		)
 		(instances
-			(project "DMH_Transistor_VCA_PANEL"
+			(project "DMH_VCA_Bank_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
-					(reference "H17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SynthStuff:MountingHole_Pot")
-		(at 88.9 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3e14c0c0-683d-475f-9db3-4fb8301caa95")
-		(property "Reference" "H5"
-			(at 91.44 86.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Offset"
-			(at 91.44 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SynthStuff:Pot_Cutout_Small"
-			(at 88.9 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 88.9 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Pot Mounting Hole"
-			(at 91.44 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "1"
-			(uuid "aeb7a6ba-2b04-42a5-80b7-33aed6a89052")
-		)
-		(instances
-			(project ""
-				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
-					(reference "H5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
-		(at 63.5 127 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "444d4841-761a-46da-a3af-080d53802c72")
-		(property "Reference" "H8"
-			(at 66.04 124.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Input"
-			(at 66.04 126.9999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
-			(at 63.5 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jack 6.35mm"
-			(at 66.04 129.5399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "1"
-			(uuid "82cf5471-7ce5-4087-b3f4-57cc389608aa")
-		)
-		(instances
-			(project ""
-				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
-					(reference "H8")
+					(reference "H23")
 					(unit 1)
 				)
 			)
@@ -1529,7 +1993,7 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
-		(at 76.2 139.7 0)
+		(at 38.1 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -1538,7 +2002,7 @@
 		(fields_autoplaced yes)
 		(uuid "69576405-c7e4-4d72-9b91-045a2c199845")
 		(property "Reference" "H9"
-			(at 78.74 137.1599 0)
+			(at 40.64 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1546,8 +2010,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV 1"
-			(at 78.74 139.6999 0)
+		(property "Value" "CV A"
+			(at 40.64 139.6999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1556,7 +2020,7 @@
 			)
 		)
 		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
-			(at 76.2 139.7 0)
+			(at 38.1 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1565,7 +2029,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 139.7 0)
+			(at 38.1 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1574,7 +2038,7 @@
 			)
 		)
 		(property "Description" "Jack 6.35mm"
-			(at 78.74 142.2399 0)
+			(at 40.64 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1595,17 +2059,17 @@
 		)
 	)
 	(symbol
-		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
-		(at 63.5 203.2 0)
+		(lib_id "SynthStuff:MountingHole_Pot")
+		(at 101.6 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8873741a-8a28-4ad6-92e2-b7f510e8e48c")
-		(property "Reference" "H15"
-			(at 66.04 200.6599 0)
+		(uuid "75c46944-0c60-469e-984e-d62a3afdfd60")
+		(property "Reference" "H19"
+			(at 104.14 162.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1613,8 +2077,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Input"
-			(at 66.04 203.1999 0)
+		(property "Value" "Offset D"
+			(at 104.14 165.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1622,8 +2086,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
-			(at 63.5 203.2 0)
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny"
+			(at 101.6 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1632,7 +2096,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 203.2 0)
+			(at 101.6 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1640,8 +2104,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Jack 6.35mm"
-			(at 66.04 205.7399 0)
+		(property "Description" "Pot Mounting Hole"
+			(at 104.14 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1650,12 +2114,79 @@
 			)
 		)
 		(pin "1"
-			(uuid "ceed0b79-8928-4165-8cc2-f1cdc4b3179b")
+			(uuid "f42c2479-b37f-4af0-82a3-b1870efd9c5e")
 		)
 		(instances
-			(project "DMH_Transistor_VCA_PANEL"
+			(project "DMH_VCA_Bank_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
-					(reference "H15")
+					(reference "H19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
+		(at 101.6 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7821c0c1-5542-42dc-9ad7-d0821a59bbad")
+		(property "Reference" "H14"
+			(at 104.14 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "In C"
+			(at 104.14 126.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
+			(at 101.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm"
+			(at 104.14 129.5399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "3cc274c6-14d1-495a-99cd-4334ea47312c")
+		)
+		(instances
+			(project "DMH_VCA_Bank_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H14")
 					(unit 1)
 				)
 			)
@@ -1670,8 +2201,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "91713c77-2242-4919-955b-ab70b5b332c2")
-		(property "Reference" "H7"
+		(uuid "82c2d52f-a41c-4215-84e6-633f2d40d9b3")
+		(property "Reference" "H10"
 			(at 104.14 99.0599 0)
 			(effects
 				(font
@@ -1680,7 +2211,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV 2 Amt"
+		(property "Value" "CV C Amt"
 			(at 104.14 101.5999 0)
 			(effects
 				(font
@@ -1717,12 +2248,79 @@
 			)
 		)
 		(pin "1"
-			(uuid "20c64545-65bd-498d-b7cd-e942bad05e87")
+			(uuid "9f58546d-b90e-4f75-925d-3798eb7777d1")
 		)
 		(instances
-			(project ""
+			(project "DMH_VCA_Bank_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
-					(reference "H7")
+					(reference "H10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
+		(at 38.1 203.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8873741a-8a28-4ad6-92e2-b7f510e8e48c")
+		(property "Reference" "H15"
+			(at 40.64 200.6599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "In B"
+			(at 40.64 203.1999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
+			(at 38.1 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.1 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm"
+			(at 40.64 205.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "ceed0b79-8928-4165-8cc2-f1cdc4b3179b")
+		)
+		(instances
+			(project "DMH_Transistor_VCA_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H15")
 					(unit 1)
 				)
 			)
@@ -1730,7 +2328,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 50.8 219.71 0)
+		(at 25.4 219.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1739,7 +2337,7 @@
 		(fields_autoplaced yes)
 		(uuid "944efa41-3249-4269-ad61-9706ee935581")
 		(property "Reference" "#PWR02"
-			(at 50.8 226.06 0)
+			(at 25.4 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1748,7 +2346,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 50.8 224.79 0)
+			(at 25.4 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1756,7 +2354,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 219.71 0)
+			(at 25.4 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1765,7 +2363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 219.71 0)
+			(at 25.4 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1774,7 +2372,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 50.8 219.71 0)
+			(at 25.4 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1803,8 +2401,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "982ab1ec-025e-4067-93d0-c2fa4f46692e")
-		(property "Reference" "H18"
+		(uuid "9644c6e8-190f-456a-acaa-d852ac6f0081")
+		(property "Reference" "H22"
 			(at 104.14 213.3599 0)
 			(effects
 				(font
@@ -1813,7 +2411,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV 2"
+		(property "Value" "CV D"
 			(at 104.14 215.8999 0)
 			(effects
 				(font
@@ -1850,12 +2448,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "309fa4d1-4ae6-4014-bcb8-55d1bbed45ac")
+			(uuid "d2a6ace8-1705-4171-9d54-295cbacc396f")
 		)
 		(instances
-			(project "DMH_Transistor_VCA_PANEL"
+			(project "DMH_VCA_Bank_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
-					(reference "H18")
+					(reference "H22")
 					(unit 1)
 				)
 			)
@@ -1863,16 +2461,16 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
-		(at 101.6 139.7 0)
+		(at 101.6 203.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "994880e9-7844-49be-9f0f-ef5878ad01cd")
-		(property "Reference" "H10"
-			(at 104.14 137.1599 0)
+		(uuid "a49c647a-6e14-457b-9887-49b114647f9f")
+		(property "Reference" "H21"
+			(at 104.14 200.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1880,8 +2478,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV 2"
-			(at 104.14 139.6999 0)
+		(property "Value" "In D"
+			(at 104.14 203.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1890,7 +2488,7 @@
 			)
 		)
 		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
-			(at 101.6 139.7 0)
+			(at 101.6 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1899,7 +2497,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 139.7 0)
+			(at 101.6 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1908,7 +2506,7 @@
 			)
 		)
 		(property "Description" "Jack 6.35mm"
-			(at 104.14 142.2399 0)
+			(at 104.14 205.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1917,12 +2515,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "68c2e19f-55c0-479d-84d0-a6179a147aed")
+			(uuid "7069064c-af39-4c29-b683-952949135c75")
 		)
 		(instances
-			(project ""
+			(project "DMH_VCA_Bank_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
-					(reference "H10")
+					(reference "H21")
 					(unit 1)
 				)
 			)
@@ -1997,7 +2595,7 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
-		(at 114.3 127 0)
+		(at 50.8 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -2006,7 +2604,7 @@
 		(fields_autoplaced yes)
 		(uuid "af2f5909-db4a-422f-af7d-0560797130c0")
 		(property "Reference" "H11"
-			(at 116.84 124.4599 0)
+			(at 53.34 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2014,8 +2612,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Output"
-			(at 116.84 126.9999 0)
+		(property "Value" "Out A"
+			(at 53.34 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2024,7 +2622,7 @@
 			)
 		)
 		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
-			(at 114.3 127 0)
+			(at 50.8 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2033,7 +2631,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 114.3 127 0)
+			(at 50.8 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2042,7 +2640,7 @@
 			)
 		)
 		(property "Description" "Jack 6.35mm"
-			(at 116.84 129.5399 0)
+			(at 53.34 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2064,7 +2662,7 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Pot")
-		(at 76.2 102.87 0)
+		(at 38.1 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2073,7 +2671,7 @@
 		(fields_autoplaced yes)
 		(uuid "c5450c8a-bab1-43cc-9ff4-9204f1118be7")
 		(property "Reference" "H6"
-			(at 78.74 99.0599 0)
+			(at 40.64 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2081,8 +2679,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV 1 Amt"
-			(at 78.74 101.5999 0)
+		(property "Value" "CV A Amt"
+			(at 40.64 101.5999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2091,7 +2689,7 @@
 			)
 		)
 		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny_attv_P110KH1"
-			(at 76.2 102.87 0)
+			(at 38.1 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2100,7 +2698,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 102.87 0)
+			(at 38.1 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2109,7 +2707,7 @@
 			)
 		)
 		(property "Description" "Pot Mounting Hole"
-			(at 78.74 104.1399 0)
+			(at 40.64 104.1399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2131,7 +2729,7 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Pot")
-		(at 76.2 179.07 0)
+		(at 38.1 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2140,7 +2738,7 @@
 		(fields_autoplaced yes)
 		(uuid "d851e022-d99b-4fe6-a2b6-4cbaea27734b")
 		(property "Reference" "H13"
-			(at 78.74 175.2599 0)
+			(at 40.64 175.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2148,8 +2746,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV 1 Amt"
-			(at 78.74 177.7999 0)
+		(property "Value" "CV B Amt"
+			(at 40.64 177.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2158,7 +2756,7 @@
 			)
 		)
 		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny_attv_P110KH1"
-			(at 76.2 179.07 0)
+			(at 38.1 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2167,7 +2765,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 179.07 0)
+			(at 38.1 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2176,7 +2774,7 @@
 			)
 		)
 		(property "Description" "Pot Mounting Hole"
-			(at 78.74 180.3399 0)
+			(at 40.64 180.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2344,7 +2942,7 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Pot")
-		(at 88.9 166.37 0)
+		(at 38.1 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2353,7 +2951,7 @@
 		(fields_autoplaced yes)
 		(uuid "f77e7eb3-204c-41f4-b436-785ad7bc1e96")
 		(property "Reference" "H12"
-			(at 91.44 162.5599 0)
+			(at 40.64 162.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2361,8 +2959,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Offset"
-			(at 91.44 165.0999 0)
+		(property "Value" "Offset B"
+			(at 40.64 165.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2370,8 +2968,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Pot_Cutout_Small"
-			(at 88.9 166.37 0)
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny"
+			(at 38.1 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2380,7 +2978,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 166.37 0)
+			(at 38.1 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2389,7 +2987,7 @@
 			)
 		)
 		(property "Description" "Pot Mounting Hole"
-			(at 91.44 167.6399 0)
+			(at 40.64 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2411,7 +3009,7 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
-		(at 114.3 203.2 0)
+		(at 50.8 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -2420,7 +3018,7 @@
 		(fields_autoplaced yes)
 		(uuid "f9a82268-7170-4f77-bf62-f509cec6a7a4")
 		(property "Reference" "H16"
-			(at 116.84 200.6599 0)
+			(at 53.34 187.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2428,8 +3026,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Output"
-			(at 116.84 203.1999 0)
+		(property "Value" "Out B"
+			(at 53.34 190.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2438,7 +3036,7 @@
 			)
 		)
 		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
-			(at 114.3 203.2 0)
+			(at 50.8 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2447,7 +3045,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 114.3 203.2 0)
+			(at 50.8 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2456,7 +3054,7 @@
 			)
 		)
 		(property "Description" "Jack 6.35mm"
-			(at 116.84 205.7399 0)
+			(at 53.34 193.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
