@@ -5529,7 +5529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 127 95.25 0)
 			(effects
 				(font
@@ -5915,7 +5915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 127 34.29 0)
 			(effects
 				(font
@@ -6353,7 +6353,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "bc6e9bdd-578c-493a-ad84-af5782cdebd2")
-		(property "Reference" "J54"
+		(property "Reference" "J0"
 			(at 142.24 240.03 90)
 			(effects
 				(font
@@ -6414,7 +6414,7 @@
 		(instances
 			(project "DMH_VCA_Bank_PCB_2"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7b52706a-7501-4bd9-bd96-319206c66019"
-					(reference "J54")
+					(reference "J0")
 					(unit 1)
 				)
 			)
@@ -6593,7 +6593,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 127 156.21 0)
 			(effects
 				(font
@@ -6979,7 +6979,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 127 217.17 0)
 			(effects
 				(font
