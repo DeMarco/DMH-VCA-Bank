@@ -5919,8 +5919,8 @@
 		)
 	)
 	(gr_rect
-		(start 70 213.5)
-		(end 80 215.5)
+		(start 67 146.25)
+		(end 77 148.25)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -6201,7 +6201,7 @@
 		(uuid "00a9661b-bc4e-493a-9a57-d5b24a34753b")
 	)
 	(gr_text "Mk1.0 - Month 2025"
-		(at 75 216.5 0)
+		(at 72 149.25 0)
 		(layer "B.SilkS")
 		(uuid "b8e4add2-3a99-4283-8ca5-566719c3b3b5")
 		(effects
