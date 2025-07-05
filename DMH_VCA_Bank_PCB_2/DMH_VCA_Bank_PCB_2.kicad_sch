@@ -11,7 +11,7 @@
 	)
 	(lib_symbols)
 	(no_connect
-		(at 50.8 152.4)
+		(at 50.8 149.86)
 		(uuid "03722d87-2d0e-48ab-909d-21dde4ee646e")
 	)
 	(no_connect
@@ -39,10 +39,6 @@
 		(uuid "5ac5a71f-38bd-4270-bc5a-4c4ff3dbdba7")
 	)
 	(no_connect
-		(at 29.21 165.1)
-		(uuid "7f11dc44-2c25-4e87-9fa6-f1b8766e5c7f")
-	)
-	(no_connect
 		(at 50.8 146.05)
 		(uuid "8941b3a5-48ee-43d5-b8e2-d3bd60b41865")
 	)
@@ -59,12 +55,20 @@
 		(uuid "b44d34f0-6d59-49a0-be53-b55ee111469d")
 	)
 	(no_connect
+		(at 50.8 154.94)
+		(uuid "c033a156-f746-4558-80e9-25c81db0180d")
+	)
+	(no_connect
 		(at 50.8 107.95)
 		(uuid "d0f9b776-65c0-4785-938c-75799176d57c")
 	)
 	(no_connect
 		(at 50.8 40.64)
 		(uuid "d15c807a-cee9-4acb-a4bd-0b4cbb8bc86a")
+	)
+	(no_connect
+		(at 50.8 171.45)
+		(uuid "d4a1274b-cda6-49ae-9f24-daa689ff3515")
 	)
 	(no_connect
 		(at 50.8 44.45)
@@ -88,7 +92,7 @@
 	)
 	(sheet
 		(at 25.4 25.4)
-		(size 25.4 139.7)
+		(size 25.4 152.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -101,7 +105,7 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "ce3fef8b-9f1d-4178-b50b-4a046c030679")
+		(uuid "7b52706a-7501-4bd9-bd96-319206c66019")
 		(property "Sheetname" "Inputs and Outputs"
 			(at 25.4 24.6884 0)
 			(effects
@@ -112,7 +116,7 @@
 			)
 		)
 		(property "Sheetfile" "Inputs_and_Outputs.kicad_sch"
-			(at 25.4 165.6846 0)
+			(at 25.4 178.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -123,17 +127,7 @@
 		)
 		(pin "Output B Jack" input
 			(at 50.8 95.25 0)
-			(uuid "61bea0f4-ac41-402a-94f0-8fd20c42f5bb")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "Mute B Switch" output
-			(at 50.8 152.4 0)
-			(uuid "906d190d-e4d5-43b8-8849-078d556e2397")
+			(uuid "cc2283a0-0605-41af-8a03-f99dc48d353f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -143,7 +137,7 @@
 		)
 		(pin "Offset B Pot" output
 			(at 50.8 69.85 0)
-			(uuid "2b499b55-3046-497d-8405-d40c6da8cd8f")
+			(uuid "5b157767-c7cb-4bf6-8163-08f3469f3983")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -153,7 +147,7 @@
 		)
 		(pin "Input B Jack" output
 			(at 50.8 73.66 0)
-			(uuid "3cf31980-7843-4e17-be32-ca57519cde2c")
+			(uuid "1947b080-3a6a-442f-8735-5f1145fd33a6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -163,17 +157,7 @@
 		)
 		(pin "Output C Jack" input
 			(at 50.8 133.35 0)
-			(uuid "d216050d-0d6a-486d-8a67-2fa82a16c264")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "Mute C Switch" output
-			(at 50.8 158.75 0)
-			(uuid "7b35ac29-9a58-42e7-a2b7-85a3e29177cf")
+			(uuid "ce99db6b-0def-434a-a17a-6c2177d77603")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -183,7 +167,7 @@
 		)
 		(pin "Input C Jack" output
 			(at 50.8 111.76 0)
-			(uuid "dd78b2b7-9944-4604-a1e4-dbdb0028fd86")
+			(uuid "c9fbe629-9720-454f-af1f-ba3b2d8d9edf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -193,7 +177,7 @@
 		)
 		(pin "Offset C Pot" output
 			(at 50.8 107.95 0)
-			(uuid "896c0ade-7003-4f85-963b-24331b9a8289")
+			(uuid "9063b3f0-f376-4a8c-84e2-abe427a0e8ef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -203,17 +187,7 @@
 		)
 		(pin "Input A Jack" output
 			(at 50.8 35.56 0)
-			(uuid "5c0f720a-4dfd-4897-9d6b-44332e28be99")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "Mute A Switch" output
-			(at 50.8 146.05 0)
-			(uuid "1d32d706-f9f2-4abd-a48b-25e309cd9aa8")
+			(uuid "1a92374c-ec9f-4c93-bcbf-ad2f05e5adcb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -223,7 +197,7 @@
 		)
 		(pin "Offset A Pot" output
 			(at 50.8 31.75 0)
-			(uuid "35699646-dba7-41ae-80a5-4d15a02fb008")
+			(uuid "82eb0cf8-2906-4ef9-b9e3-4427694d4196")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -233,7 +207,7 @@
 		)
 		(pin "Output A Jack" input
 			(at 50.8 57.15 0)
-			(uuid "2b26e58f-1712-412f-a861-4d993084304d")
+			(uuid "d9a201db-020d-4049-8803-3f98e210d6fe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -243,7 +217,7 @@
 		)
 		(pin "CV C Jack" output
 			(at 50.8 120.65 0)
-			(uuid "85a26802-b8dc-4b9e-8884-33eb901a71c8")
+			(uuid "5a2e3508-2287-47c2-94f4-39f69896f59f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -253,7 +227,7 @@
 		)
 		(pin "CV B Jack" output
 			(at 50.8 82.55 0)
-			(uuid "8af36520-2e64-4fc4-b0fb-c5511377e468")
+			(uuid "5fb200ae-fb48-47b1-9756-f7f8aaf6c4bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -263,7 +237,7 @@
 		)
 		(pin "CV A Jack" output
 			(at 50.8 44.45 0)
-			(uuid "7430c3a0-ebb7-4748-ab05-c28b46e0d04c")
+			(uuid "146497ba-7b39-4d6a-86f1-311c7afceaf6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -271,19 +245,9 @@
 				(justify right)
 			)
 		)
-		(pin "Mix Out Jack" input
-			(at 29.21 165.1 270)
-			(uuid "2e443f63-4d67-47c0-a904-b949fa804ced")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "CV Amt A Pot" output
 			(at 50.8 40.64 0)
-			(uuid "13dab434-c4f7-4866-9d1c-fdfbdcd5f147")
+			(uuid "7c5f8a38-784c-42c2-942d-5ed946edf94b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -293,7 +257,7 @@
 		)
 		(pin "CV Amt B Pot" output
 			(at 50.8 78.74 0)
-			(uuid "700e12f1-ecee-48fa-aa2e-4c74e7f32eed")
+			(uuid "2d448b43-0d8a-4737-ac35-85036a00f398")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -303,7 +267,57 @@
 		)
 		(pin "CV Amt C Pot" output
 			(at 50.8 116.84 0)
-			(uuid "9d57236d-ef97-4e80-9718-8e3ccad9c56d")
+			(uuid "f328eea3-f3ad-4474-b8db-d0594a06182a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV Amt D Pot" output
+			(at 50.8 154.94 0)
+			(uuid "f069098f-b519-4fce-b2c6-f18b82d16f32")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV D Jack" output
+			(at 50.8 158.75 0)
+			(uuid "58aad730-40bb-40ff-aed3-8b466a15f6f8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Input D Jack" output
+			(at 50.8 149.86 0)
+			(uuid "0d396f48-fa92-4342-a88f-6fb1d01d46f8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Offset D Pot" output
+			(at 50.8 146.05 0)
+			(uuid "81ec99ff-0a3c-4c86-975a-84dd0add8977")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Output D Jack" input
+			(at 50.8 171.45 0)
+			(uuid "ebf4b767-9ef3-45d9-8c76-edcebd462ed6")
 			(effects
 				(font
 					(size 1.27 1.27)
