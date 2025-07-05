@@ -1,0 +1,328 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "58f4306d-5387-4983-bb08-41a2313fd315")
+	(paper "A4")
+	(title_block
+		(rev "1")
+		(company "DMH Instruments")
+		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
+	)
+	(lib_symbols)
+	(no_connect
+		(at 50.8 152.4)
+		(uuid "03722d87-2d0e-48ab-909d-21dde4ee646e")
+	)
+	(no_connect
+		(at 50.8 31.75)
+		(uuid "0706bb69-beb1-4758-930d-7bf30be99be0")
+	)
+	(no_connect
+		(at 50.8 73.66)
+		(uuid "3ab8dfab-2c29-41c2-9378-741deda2632a")
+	)
+	(no_connect
+		(at 50.8 57.15)
+		(uuid "435f5cda-ff9c-4098-982e-ef5428ff214a")
+	)
+	(no_connect
+		(at 50.8 78.74)
+		(uuid "468c6b7a-b0dd-4f55-a3ff-b36710d30727")
+	)
+	(no_connect
+		(at 50.8 82.55)
+		(uuid "59973f46-dee8-4ebb-a2a5-8e95cac19f00")
+	)
+	(no_connect
+		(at 50.8 69.85)
+		(uuid "5ac5a71f-38bd-4270-bc5a-4c4ff3dbdba7")
+	)
+	(no_connect
+		(at 29.21 165.1)
+		(uuid "7f11dc44-2c25-4e87-9fa6-f1b8766e5c7f")
+	)
+	(no_connect
+		(at 50.8 146.05)
+		(uuid "8941b3a5-48ee-43d5-b8e2-d3bd60b41865")
+	)
+	(no_connect
+		(at 50.8 158.75)
+		(uuid "909651a9-ded3-4f25-9052-95794dd0e4f6")
+	)
+	(no_connect
+		(at 50.8 35.56)
+		(uuid "a989f06d-f024-4663-ad10-a1a3e489d926")
+	)
+	(no_connect
+		(at 50.8 95.25)
+		(uuid "b44d34f0-6d59-49a0-be53-b55ee111469d")
+	)
+	(no_connect
+		(at 50.8 107.95)
+		(uuid "d0f9b776-65c0-4785-938c-75799176d57c")
+	)
+	(no_connect
+		(at 50.8 40.64)
+		(uuid "d15c807a-cee9-4acb-a4bd-0b4cbb8bc86a")
+	)
+	(no_connect
+		(at 50.8 44.45)
+		(uuid "e18588a5-c0a4-4cb0-b9ae-463c6e7352d5")
+	)
+	(no_connect
+		(at 50.8 120.65)
+		(uuid "e46cd3d2-8c6e-44bd-8cd2-f967db7a44ee")
+	)
+	(no_connect
+		(at 50.8 116.84)
+		(uuid "e6c03974-2579-453d-97be-e4e148176528")
+	)
+	(no_connect
+		(at 50.8 133.35)
+		(uuid "f07ec22d-f320-4fb3-97e5-06424b2912f0")
+	)
+	(no_connect
+		(at 50.8 111.76)
+		(uuid "fa6d529a-b734-49e6-821b-599c4ccef41b")
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 25.4 139.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce3fef8b-9f1d-4178-b50b-4a046c030679")
+		(property "Sheetname" "Inputs and Outputs"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Inputs_and_Outputs.kicad_sch"
+			(at 25.4 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Output B Jack" input
+			(at 50.8 95.25 0)
+			(uuid "61bea0f4-ac41-402a-94f0-8fd20c42f5bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Mute B Switch" output
+			(at 50.8 152.4 0)
+			(uuid "906d190d-e4d5-43b8-8849-078d556e2397")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Offset B Pot" output
+			(at 50.8 69.85 0)
+			(uuid "2b499b55-3046-497d-8405-d40c6da8cd8f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Input B Jack" output
+			(at 50.8 73.66 0)
+			(uuid "3cf31980-7843-4e17-be32-ca57519cde2c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Output C Jack" input
+			(at 50.8 133.35 0)
+			(uuid "d216050d-0d6a-486d-8a67-2fa82a16c264")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Mute C Switch" output
+			(at 50.8 158.75 0)
+			(uuid "7b35ac29-9a58-42e7-a2b7-85a3e29177cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Input C Jack" output
+			(at 50.8 111.76 0)
+			(uuid "dd78b2b7-9944-4604-a1e4-dbdb0028fd86")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Offset C Pot" output
+			(at 50.8 107.95 0)
+			(uuid "896c0ade-7003-4f85-963b-24331b9a8289")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Input A Jack" output
+			(at 50.8 35.56 0)
+			(uuid "5c0f720a-4dfd-4897-9d6b-44332e28be99")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Mute A Switch" output
+			(at 50.8 146.05 0)
+			(uuid "1d32d706-f9f2-4abd-a48b-25e309cd9aa8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Offset A Pot" output
+			(at 50.8 31.75 0)
+			(uuid "35699646-dba7-41ae-80a5-4d15a02fb008")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Output A Jack" input
+			(at 50.8 57.15 0)
+			(uuid "2b26e58f-1712-412f-a861-4d993084304d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV C Jack" output
+			(at 50.8 120.65 0)
+			(uuid "85a26802-b8dc-4b9e-8884-33eb901a71c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV B Jack" output
+			(at 50.8 82.55 0)
+			(uuid "8af36520-2e64-4fc4-b0fb-c5511377e468")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV A Jack" output
+			(at 50.8 44.45 0)
+			(uuid "7430c3a0-ebb7-4748-ab05-c28b46e0d04c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Mix Out Jack" input
+			(at 29.21 165.1 270)
+			(uuid "2e443f63-4d67-47c0-a904-b949fa804ced")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CV Amt A Pot" output
+			(at 50.8 40.64 0)
+			(uuid "13dab434-c4f7-4866-9d1c-fdfbdcd5f147")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV Amt B Pot" output
+			(at 50.8 78.74 0)
+			(uuid "700e12f1-ecee-48fa-aa2e-4c74e7f32eed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV Amt C Pot" output
+			(at 50.8 116.84 0)
+			(uuid "9d57236d-ef97-4e80-9718-8e3ccad9c56d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "DMH_VCM_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
