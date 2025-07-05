@@ -719,10 +719,6 @@
       "VCA A"
     ],
     [
-      "0cdf34b2-39cd-4d9e-981a-97cd34791509",
-      "Power"
-    ],
-    [
       "b1c4e848-8fe8-4310-abec-b04b02b54b3f",
       "VCA B"
     ],
@@ -731,8 +727,12 @@
       "VCA C"
     ],
     [
-      "cf2dec9f-6388-4d4b-9b45-78eb859d2e80",
-      "Mixer"
+      "c27d7238-b4ac-4015-aeaf-9ab9d50e25c5",
+      "VCA D"
+    ],
+    [
+      "0cdf34b2-39cd-4d9e-981a-97cd34791509",
+      "Power"
     ]
   ],
   "text_variables": {}

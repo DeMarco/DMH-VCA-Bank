@@ -1922,16 +1922,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 48.26) (xy 31.75 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1bda2fba-6130-43c8-8b1f-91d326d1855a")
-	)
-	(wire
-		(pts
 			(xy 50.8 137.16) (xy 50.8 139.7)
 		)
 		(stroke
@@ -1972,16 +1962,6 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 53.34) (xy 38.1 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28a7e217-613e-4a82-8d47-fd72b4144442")
-	)
-	(wire
-		(pts
 			(xy 81.28 177.8) (xy 82.55 177.8)
 		)
 		(stroke
@@ -2019,16 +1999,6 @@
 			(type default)
 		)
 		(uuid "2f0fdc63-edf5-4b63-818a-7fb2339559e8")
-	)
-	(wire
-		(pts
-			(xy 38.1 60.96) (xy 63.5 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30d6c8fe-eb7e-4b83-a125-58339d628a94")
 	)
 	(wire
 		(pts
@@ -2112,16 +2082,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 53.34) (xy 38.1 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53d08d06-55de-48ad-bfbd-bc47c4cfd585")
-	)
-	(wire
-		(pts
 			(xy 96.52 166.37) (xy 96.52 175.26)
 		)
 		(stroke
@@ -2199,16 +2159,6 @@
 			(type default)
 		)
 		(uuid "855cb7e6-9985-400b-be57-78ac79819a30")
-	)
-	(wire
-		(pts
-			(xy 63.5 50.8) (xy 58.42 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89140b55-94d0-4cb4-aa3d-ee0258169e51")
 	)
 	(wire
 		(pts
@@ -2502,16 +2452,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 48.26) (xy 31.75 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7d81ebc-421b-44bc-a8d8-0d9302ec0a41")
-	)
-	(wire
-		(pts
 			(xy 80.01 180.34) (xy 80.01 189.23)
 		)
 		(stroke
@@ -2619,16 +2559,6 @@
 			(type default)
 		)
 		(uuid "e2bb2e8a-23ca-43d6-aa23-72bb97397bb1")
-	)
-	(wire
-		(pts
-			(xy 63.5 60.96) (xy 63.5 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e46292b0-676c-48ea-9382-7e313715e7b8")
 	)
 	(wire
 		(pts
@@ -2832,7 +2762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "102990df-05a4-451e-b62c-5a067616de02")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 64.77 119.3799 0)
 			(effects
 				(font
@@ -2930,7 +2860,7 @@
 		(instances
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "U1")
+					(reference "U2")
 					(unit 5)
 				)
 			)
@@ -3135,184 +3065,6 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
 					(reference "#PWR05")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 31.75 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "384c034e-406e-4362-9a73-bad606c61360")
-		(property "Reference" "#PWR08"
-			(at 31.75 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 31.75 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "122bc0e7-bd23-4f04-9ac5-2e233568973a")
-		)
-		(instances
-			(project ""
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Amplifier_Operational:TL074")
-		(at 50.8 50.8 0)
-		(unit 3)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3890081c-7efa-4bb3-8c84-1b948dbc598d")
-		(property "Reference" "U2"
-			(at 50.8 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TL074"
-			(at 50.8 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 49.53 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 52.07 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"
-			(at 50.8 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Function" ""
-			(at 50.8 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "30dd4e95-d94a-43f6-b9d2-a826bcc7cc2e")
-		)
-		(pin "2"
-			(uuid "a54ff5b8-0137-486c-8178-fe1277505b9b")
-		)
-		(pin "10"
-			(uuid "1a63732e-84a3-427e-8c09-3282d664b2e0")
-		)
-		(pin "4"
-			(uuid "3d369b55-aaf9-4d52-b1c0-8e148e58f11d")
-		)
-		(pin "14"
-			(uuid "1d5ad94e-7962-4e5d-b897-e7fb5d7bbfba")
-		)
-		(pin "13"
-			(uuid "360c8d8c-349f-4907-9340-9b5ab1cd6c60")
-		)
-		(pin "9"
-			(uuid "f94c9b8d-e21a-47cc-840c-05ade5f9ebd5")
-		)
-		(pin "11"
-			(uuid "64682b9a-a256-4550-bb6b-7963cdf30454")
-		)
-		(pin "6"
-			(uuid "7507c08b-0ef9-41e8-8cad-1c87a50851b2")
-		)
-		(pin "8"
-			(uuid "7eba7428-7ed2-4852-b7f6-3e71bffa6210")
-		)
-		(pin "5"
-			(uuid "9efd7a4d-95ee-4fe7-89ae-ed1a0f591931")
-		)
-		(pin "1"
-			(uuid "51fe2b61-f279-4f12-ace7-7d8909c7971f")
-		)
-		(pin "7"
-			(uuid "65015a54-4cdb-4977-8a4a-f97e8eb6d13f")
-		)
-		(pin "12"
-			(uuid "efdb24f8-3b4d-4a00-83bf-9715e0fa2217")
-		)
-		(instances
-			(project ""
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "U2")
-					(unit 3)
 				)
 			)
 		)
@@ -3621,7 +3373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9256232a-fc23-4a7c-9bf8-ab56c817cc9f")
-		(property "Reference" "U3"
+		(property "Reference" "U1"
 			(at 39.37 119.3799 0)
 			(effects
 				(font
@@ -3719,7 +3471,7 @@
 		(instances
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "U3")
+					(reference "U1")
 					(unit 5)
 				)
 			)
@@ -4075,7 +3827,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8899695-1dae-4131-ba98-b452f06d4abc")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 90.17 119.3799 0)
 			(effects
 				(font
@@ -4173,7 +3925,7 @@
 		(instances
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "U2")
+					(reference "U3")
 					(unit 5)
 				)
 			)

@@ -12,13 +12,13 @@
 	(lib_symbols)
 	(wire
 		(pts
-			(xy 127 171.45) (xy 29.21 171.45)
+			(xy 127 133.35) (xy 127 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "032968ff-5028-4ee1-803f-dc1bfc565358")
+		(uuid "1f16d6d3-52c1-48b3-9673-674192d9800c")
 	)
 	(wire
 		(pts
@@ -28,17 +28,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "079258d1-f4fa-4c0b-814e-83e7f8e8b9e9")
-	)
-	(wire
-		(pts
-			(xy 127 133.35) (xy 127 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f16d6d3-52c1-48b3-9673-674192d9800c")
+		(uuid "2a7d013f-f50e-4598-b835-1da9d0687d51")
 	)
 	(wire
 		(pts
@@ -79,16 +69,6 @@
 			(type default)
 		)
 		(uuid "3c58945a-2ccf-4e19-b91c-0a280f316fbb")
-	)
-	(wire
-		(pts
-			(xy 127 152.4) (xy 127 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40509646-8ee5-471d-90a9-cb8dece7d627")
 	)
 	(wire
 		(pts
@@ -172,13 +152,33 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 152.4) (xy 63.5 152.4)
+			(xy 50.8 146.05) (xy 63.5 146.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6a46af50-2ebc-4832-b024-c34cf5f5de62")
+		(uuid "6a633d7c-ecae-463f-a404-27dd257ce281")
+	)
+	(wire
+		(pts
+			(xy 50.8 149.86) (xy 63.5 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a6d73cb-91eb-4c6f-a867-98dc09eb99d0")
+	)
+	(wire
+		(pts
+			(xy 50.8 158.75) (xy 63.5 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71bd5ca3-48e2-4f0e-8d45-bf4dda7f45c6")
 	)
 	(wire
 		(pts
@@ -212,16 +212,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 158.75) (xy 63.5 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95ebffbe-a5e0-4efb-99f4-a5fb060c7e85")
-	)
-	(wire
-		(pts
 			(xy 114.3 38.1) (xy 127 38.1)
 		)
 		(stroke
@@ -239,6 +229,36 @@
 			(type default)
 		)
 		(uuid "9fff9727-d6c9-40bd-9cf1-01b551d2f579")
+	)
+	(wire
+		(pts
+			(xy 127 171.45) (xy 50.8 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4c0c171-cb51-49e0-9386-1d913264d61e")
+	)
+	(wire
+		(pts
+			(xy 127 152.4) (xy 127 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b27feb3a-35f8-42a5-97da-1b6154d05483")
+	)
+	(wire
+		(pts
+			(xy 50.8 154.94) (xy 63.5 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfe37427-6c79-441b-ae5f-302d62d6be47")
 	)
 	(wire
 		(pts
@@ -262,16 +282,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 171.45) (xy 29.21 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb044d17-8b7c-4c7b-92b9-2428800f50cc")
-	)
-	(wire
-		(pts
 			(xy 50.8 111.76) (xy 63.5 111.76)
 		)
 		(stroke
@@ -279,16 +289,6 @@
 			(type default)
 		)
 		(uuid "cc08315a-d5dd-4526-bca1-e60a605984b3")
-	)
-	(wire
-		(pts
-			(xy 50.8 146.05) (xy 63.5 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ceddcf5e-e76a-41df-8f58-fa8e87868ddf")
 	)
 	(sheet
 		(at 139.7 83.82)
@@ -326,9 +326,9 @@
 			)
 		)
 		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
+			(project "DMH_VCA_Bank_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "4")
+					(page "7")
 				)
 			)
 		)
@@ -419,7 +419,7 @@
 			)
 		)
 		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
+			(project "DMH_VCA_Bank_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "3")
 				)
@@ -512,16 +512,109 @@
 			)
 		)
 		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
+			(project "DMH_VCA_Bank_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "5")
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 139.7)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c27d7238-b4ac-4015-aeaf-9ab9d50e25c5")
+		(property "Sheetname" "VCA D"
+			(at 63.5 138.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VCA_D.kicad_sch"
+			(at 63.5 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "CV D Input" input
+			(at 63.5 158.75 180)
+			(uuid "b2b5ab97-14ef-4cf5-905a-0255370929eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Offset D Pot" input
+			(at 63.5 146.05 180)
+			(uuid "92dfd469-428e-4f95-befa-80a5042b3424")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Input D" input
+			(at 63.5 149.86 180)
+			(uuid "fa4a47cb-ff2c-4bc0-9c70-8ef4232b22bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Output D" output
+			(at 114.3 152.4 0)
+			(uuid "988ac25f-3ddb-446f-905d-930a072ad2ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV Amt D Pot" input
+			(at 63.5 154.94 180)
+			(uuid "f82ceba2-2a1d-4cb4-9167-d8471db3f3cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "DMH_VCA_Bank_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "6")
 				)
 			)
 		)
 	)
 	(sheet
 		(at 25.4 25.4)
-		(size 25.4 139.7)
+		(size 25.4 152.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -545,7 +638,7 @@
 			)
 		)
 		(property "Sheetfile" "Inputs_and_Outputs.kicad_sch"
-			(at 25.4 165.6846 0)
+			(at 25.4 178.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -557,16 +650,6 @@
 		(pin "Output B Jack" input
 			(at 50.8 95.25 0)
 			(uuid "61bea0f4-ac41-402a-94f0-8fd20c42f5bb")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "Mute B Switch" output
-			(at 50.8 152.4 0)
-			(uuid "906d190d-e4d5-43b8-8849-078d556e2397")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -604,16 +687,6 @@
 				(justify right)
 			)
 		)
-		(pin "Mute C Switch" output
-			(at 50.8 158.75 0)
-			(uuid "7b35ac29-9a58-42e7-a2b7-85a3e29177cf")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "Input C Jack" output
 			(at 50.8 111.76 0)
 			(uuid "dd78b2b7-9944-4604-a1e4-dbdb0028fd86")
@@ -637,16 +710,6 @@
 		(pin "Input A Jack" output
 			(at 50.8 35.56 0)
 			(uuid "5c0f720a-4dfd-4897-9d6b-44332e28be99")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "Mute A Switch" output
-			(at 50.8 146.05 0)
-			(uuid "1d32d706-f9f2-4abd-a48b-25e309cd9aa8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -704,16 +767,6 @@
 				(justify right)
 			)
 		)
-		(pin "Mix Out Jack" input
-			(at 29.21 165.1 270)
-			(uuid "2e443f63-4d67-47c0-a904-b949fa804ced")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "CV Amt A Pot" output
 			(at 50.8 40.64 0)
 			(uuid "13dab434-c4f7-4866-9d1c-fdfbdcd5f147")
@@ -744,82 +797,49 @@
 				(justify right)
 			)
 		)
-		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 63.5 139.7)
-		(size 50.8 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "cf2dec9f-6388-4d4b-9b45-78eb859d2e80")
-		(property "Sheetname" "Mixer"
-			(at 63.5 138.9884 0)
+		(pin "CV Amt D Pot" output
+			(at 50.8 154.94 0)
+			(uuid "2281f5dd-4bd3-4c4e-beff-96c57d7a8b97")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify right)
 			)
 		)
-		(property "Sheetfile" "Mixer.kicad_sch"
-			(at 63.5 165.6846 0)
+		(pin "CV D Jack" output
+			(at 50.8 158.75 0)
+			(uuid "e1b01a92-2983-4791-acac-b04609d91096")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
-				(hide yes)
+				(justify right)
 			)
 		)
-		(pin "Mixer Input A" input
-			(at 63.5 146.05 180)
-			(uuid "1a09e30f-0fb3-4b19-ae5b-8c710aad97bb")
+		(pin "Input D Jack" output
+			(at 50.8 149.86 0)
+			(uuid "96c5e396-3e37-4312-b613-661a6a421c45")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(pin "Mixer Input B" input
-			(at 63.5 152.4 180)
-			(uuid "a438da56-2e27-4b15-a7bf-e6c85834bc24")
+		(pin "Offset D Pot" output
+			(at 50.8 146.05 0)
+			(uuid "c8be53c3-bf22-4d0b-831f-5d89cb6dd6a1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(pin "Mixer Input C" input
-			(at 63.5 158.75 180)
-			(uuid "86530e4c-8f5d-4e78-a54f-a7a83333cdc0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Mixer Output" output
-			(at 114.3 152.4 0)
-			(uuid "1e92f1d0-6e12-4f8b-bf7a-632aa8e8bf4f")
+		(pin "Output D Jack" input
+			(at 50.8 171.45 0)
+			(uuid "ffe71f48-43f4-42f9-9c9e-5e41b58b4d6c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -828,9 +848,9 @@
 			)
 		)
 		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
+			(project "DMH_VCA_Bank_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "7")
+					(page "2")
 				)
 			)
 		)
@@ -921,9 +941,9 @@
 			)
 		)
 		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
+			(project "DMH_VCA_Bank_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "6")
+					(page "5")
 				)
 			)
 		)

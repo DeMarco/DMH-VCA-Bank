@@ -2793,13 +2793,13 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 234.95 76.2 0)
 		(mirror x)
-		(unit 1)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "5998887c-2b6b-454e-b6b5-60f76118e1a3")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 234.95 86.36 0)
 			(effects
 				(font
@@ -2895,8 +2895,8 @@
 		(instances
 			(project "DMH_Tripple_VCA_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/b1c4e848-8fe8-4310-abec-b04b02b54b3f"
-					(reference "U2")
-					(unit 1)
+					(reference "U1")
+					(unit 4)
 				)
 			)
 		)
@@ -2973,13 +2973,13 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 138.43 152.4 0)
 		(mirror x)
-		(unit 3)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "5ada6a7d-4ec7-4ed5-91bd-8df67f1ee141")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 138.43 162.56 0)
 			(effects
 				(font
@@ -3075,8 +3075,8 @@
 		(instances
 			(project "DMH_Tripple_VCA_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/b1c4e848-8fe8-4310-abec-b04b02b54b3f"
-					(reference "U1")
-					(unit 3)
+					(reference "U2")
+					(unit 2)
 				)
 			)
 		)
@@ -3683,7 +3683,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 88.9 139.7 0)
 		(mirror x)
-		(unit 4)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3786,7 +3786,7 @@
 			(project "DMH_VCM_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/b1c4e848-8fe8-4310-abec-b04b02b54b3f"
 					(reference "U2")
-					(unit 4)
+					(unit 1)
 				)
 			)
 		)
