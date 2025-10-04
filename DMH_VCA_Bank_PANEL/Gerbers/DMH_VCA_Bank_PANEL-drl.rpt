@@ -1,0 +1,24 @@
+Drill report for DMH_VCA_Bank_PANEL.kicad_pcb
+Created on 2025-10-04T20:18:56+0200
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'DMH_VCA_Bank_PANEL-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (96 holes)
+    T2  1.000mm  0.0394"  (4 holes)  (with 4 slots)
+    T3  3.200mm  0.1260"  (4 holes)
+
+    Total plated holes count 104
+
+
+Drill file 'DMH_VCA_Bank_PANEL-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

@@ -64,10 +64,6 @@
           ""
         ],
         [
-          "silk_over_copper|73284921|108595401|1e847f6e-84df-4b74-b2e4-73c6f5a1fe2b|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "silk_over_copper|73284921|116345401|d4d32891-775a-420d-a4e3-6a4907b598fe|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -80,11 +76,15 @@
           ""
         ],
         [
-          "silk_over_copper|73284921|78595401|6b3df796-448c-4927-8052-f07be24264df|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|73284921|86345401|60944306-65c2-4a36-a280-f74729dd336e|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_over_copper|73284921|86345401|60944306-65c2-4a36-a280-f74729dd336e|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|73300000|108671207|1e847f6e-84df-4b74-b2e4-73c6f5a1fe2b|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|73300000|78671207|6b3df796-448c-4927-8052-f07be24264df|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -137,6 +137,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -484,6 +485,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
