@@ -1,0 +1,162 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c2c5d71b-0404-4891-b712-5610a98f7a83")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 101.6 88.9)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0ee526b6-852a-4e39-a3d8-a5052c5fe0ba")
+		(property "Sheetname" "VCA B"
+			(at 101.6 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VCA_DiffAmp_SM_H.kicad_sch"
+			(at 101.6 114.8846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CV_Mix_In" input
+			(at 114.3 88.9 90)
+			(uuid "e24947df-78d8-4539-b708-dd31d8641a10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Signal_In" input
+			(at 101.6 107.95 180)
+			(uuid "5a843c68-ea89-4278-9f29-81390bbe1984")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_Out" output
+			(at 127 107.95 0)
+			(uuid "bffc651e-42ee-4743-8d6e-95747af06c51")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "DMH_VCA_Bank_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/608f67f6-9066-4a5e-a579-385cc3f84d5a"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 38.1)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "91bf1678-8b20-4697-b55b-5e33aad25e90")
+		(property "Sheetname" "VCA A"
+			(at 101.6 37.3884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VCA_DiffAmp_SM_H.kicad_sch"
+			(at 101.6 64.0846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CV_Mix_In" input
+			(at 114.3 63.5 270)
+			(uuid "a030eb06-14e9-4327-952b-a8c277fc9c20")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_In" input
+			(at 101.6 44.45 180)
+			(uuid "7fbf15f3-96ba-40b5-baa6-c17b0b2ecb77")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Signal_Out" output
+			(at 127 44.45 0)
+			(uuid "e7afb152-1f46-43c2-8ee5-33c166922362")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "DMH_VCA_Bank_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/608f67f6-9066-4a5e-a579-385cc3f84d5a"
+					(page "9")
+				)
+			)
+		)
+	)
+)
